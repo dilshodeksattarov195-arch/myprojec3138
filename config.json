@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcelete",
+        "uuid": 22464942,
+        "checksum": "0imssb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
